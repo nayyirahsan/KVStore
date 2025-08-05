@@ -1,0 +1,6 @@
+# built CLI binary
+/kvstore
+
+# local data directories
+kvstore-data/
+*.out
