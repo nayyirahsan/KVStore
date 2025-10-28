@@ -1,6 +1,7 @@
 # built CLI binary
 /kvstore
 
-# local data directories
+# local data directories (runtime WAL/snapshot/SSTable state)
 kvstore-data/
+demo-data/
 *.out
